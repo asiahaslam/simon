@@ -1,8 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
-  min-width: 375px;
-  background-color: #222;
+  min-width: 300px;
 }
 
 header {
@@ -63,8 +62,8 @@ footer a {
   width: 80vw;
   height: 80vw;
   position: absolute;
-  min-width: 350px;
-  min-height: 350px;
+  min-width: 300px;
+  min-height: 300px;
   max-width: min(80vmin, 1000px);
   max-height: min(80vmin, 1000px);
 }
@@ -95,7 +94,7 @@ footer a {
   border-radius: 0 0 0 100%;
   margin: 0 0 20px 20px;
   background-color: yellow;
-  border: thick solid rgb(130, 124, 13);
+  border: thick solid rgb(94, 90, 10);
 }
 
 .button-bottom-right {
@@ -136,7 +135,7 @@ footer a {
   height: 30px;
   border-radius: 10px;
   border: solid thin rgb(117, 0, 0);
-  background-color: #222;
+  background-color: #300;
 }
 
 .center {
@@ -145,7 +144,7 @@ footer a {
   transform: translateX(-50%) translateY(-50%);
 }
 
-@media (max-height: 600px) {
+@media (max-height: 500px) {
   header {
     display: none;
   }
