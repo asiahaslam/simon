@@ -16,3 +16,5 @@ My notes: I am still trying to get comfortable with JavaScript because of my ext
 # simon-service
 
 This deliverable demonstrates converting the JavaScript application into a web application by implementing a web service that listens on a network port for HTTP requests.
+
+My notes: I learned a lot reading through the instruction for this assignment. Like the JavaScript, I still feel like a have a lot to learn about creating a service. However, I'm excited to learn more about it while working on my startup.
