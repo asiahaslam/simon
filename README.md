@@ -24,3 +24,9 @@ My notes: I learned a lot reading through the instruction for this assignment. L
 This deliverable demonstrates using a database service, MongoDB, to persistently save data.
 
 My notes: I learned about using MongoDB to store data. Adding that functionality changed less things than I expected. I'm still figuring out how to use this on my startup project.
+
+# simon-login
+
+This deliverable demonstrates authenticating users and storing credentials and authentication tokens in MongoDB.
+
+My notes: I am excited to add login abilities to my startup. I always wondered how website logins worked on the backend so it has been helpful to see the Simon code.
