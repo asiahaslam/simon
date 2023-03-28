@@ -18,3 +18,9 @@ My notes: I am still trying to get comfortable with JavaScript because of my ext
 This deliverable demonstrates converting the JavaScript application into a web application by implementing a web service that listens on a network port for HTTP requests.
 
 My notes: I learned a lot reading through the instruction for this assignment. Like the JavaScript, I still feel like a have a lot to learn about creating a service. However, I'm excited to learn more about it while working on my startup.
+
+# simon-db
+
+This deliverable demonstrates using a database service, MongoDB, to persistently save data.
+
+My notes: I learned about using MongoDB to store data. Adding that functionality changed less things than I expected. I'm still figuring out how to use this on my startup project.
