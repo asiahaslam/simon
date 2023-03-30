@@ -30,3 +30,9 @@ My notes: I learned about using MongoDB to store data. Adding that functionality
 This deliverable demonstrates authenticating users and storing credentials and authentication tokens in MongoDB.
 
 My notes: I am excited to add login abilities to my startup. I always wondered how website logins worked on the backend so it has been helpful to see the Simon code.
+
+# simon-websocket
+
+This deliverable demonstrates peer to peer communication using WebSocket.
+
+My notes: I am still getting familiar with WebSocket, but I think it's one of the most interesting technologies we have learned about in the class so far. I can't imagine a lot of apps without peer-to-peer communication.
