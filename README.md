@@ -36,3 +36,7 @@ My notes: I am excited to add login abilities to my startup. I always wondered h
 This deliverable demonstrates peer to peer communication using WebSocket.
 
 My notes: I am still getting familiar with WebSocket, but I think it's one of the most interesting technologies we have learned about in the class so far. I can't imagine a lot of apps without peer-to-peer communication.
+
+# simon react
+
+My notes: Going through Simon React in class today was really helpful. I'm not planning to convert my startup to a React application, but I do plan on learning React pretty soon, so this Simon application will be a great resource.
